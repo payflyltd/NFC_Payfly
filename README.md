@@ -31,5 +31,5 @@ npm run dev
 
 ## Contact
 
-For any inquiries or support, please contact us at [payflyltd@gmail.com](mailto:payflyltd@gmail.com).
+For any inquiries or support, please contact us at [payfly](mailto:payflyltd@gmail.com).
 
