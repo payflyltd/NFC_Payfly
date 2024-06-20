@@ -33,7 +33,7 @@ const Home = () => {
 
       <div className="flex flex-col items-center gap-2">
         <img src="/assets/images/faceid.png" alt="" className="h-16 w-16 mt-8 mx-auto" />
-        <p>Tap and Pay</p>
+        <p>Tap to Pay</p>
       </div>
     </div>
   )
